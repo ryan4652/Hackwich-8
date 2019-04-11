@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		94229C2D225FD9A100063158 /* Hackwich #8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hackwich #8.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		94229C2D225FD9A100063158 /* EatMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EatMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94229C30225FD9A100063158 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94229C32225FD9A100063158 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		94229C35225FD9A100063158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		94229C2E225FD9A100063158 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				94229C2D225FD9A100063158 /* Hackwich #8.app */,
+				94229C2D225FD9A100063158 /* EatMe.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		94229C2C225FD9A100063158 /* Hackwich #8 */ = {
+		94229C2C225FD9A100063158 /* EatMe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 94229C3F225FD9A200063158 /* Build configuration list for PBXNativeTarget "Hackwich #8" */;
+			buildConfigurationList = 94229C3F225FD9A200063158 /* Build configuration list for PBXNativeTarget "EatMe" */;
 			buildPhases = (
 				94229C29225FD9A100063158 /* Sources */,
 				94229C2A225FD9A100063158 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Hackwich #8";
+			name = EatMe;
 			productName = "Hackwich #8";
-			productReference = 94229C2D225FD9A100063158 /* Hackwich #8.app */;
+			productReference = 94229C2D225FD9A100063158 /* EatMe.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 94229C28225FD9A100063158 /* Build configuration list for PBXProject "Hackwich #8" */;
+			buildConfigurationList = 94229C28225FD9A100063158 /* Build configuration list for PBXProject "EatMe" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				94229C2C225FD9A100063158 /* Hackwich #8 */,
+				94229C2C225FD9A100063158 /* EatMe */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		94229C28225FD9A100063158 /* Build configuration list for PBXProject "Hackwich #8" */ = {
+		94229C28225FD9A100063158 /* Build configuration list for PBXProject "EatMe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				94229C3D225FD9A200063158 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		94229C3F225FD9A200063158 /* Build configuration list for PBXNativeTarget "Hackwich #8" */ = {
+		94229C3F225FD9A200063158 /* Build configuration list for PBXNativeTarget "EatMe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				94229C40225FD9A200063158 /* Debug */,
